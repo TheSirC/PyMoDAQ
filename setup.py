@@ -77,7 +77,7 @@ setup(
     install_requires=[
         'numpy',
         'scipy',
-        'pyqtgraph==0.10',
+        'pyqtgraph',
         'easydict',
         #'pyqt5',
         'tables',
